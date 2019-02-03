@@ -1,0 +1,23 @@
+body {
+    font-family: "Lato", sans-serif;
+    transition: background-color .5s;
+    height: 100%;
+    font-size: 1vw;
+}
+
+html {
+  height: 100%;
+}
+
+#main {
+    transition: margin-left .5s;
+    background-color: #E8E8E8;
+    height: 100%;
+    overflow: hidden;
+}
+
+.content_wrapper {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+}
